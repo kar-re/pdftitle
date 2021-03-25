@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+Include/
+Lib/
+out/
+Scripts/
+test/
+temp/
+pyvenv.cfg
