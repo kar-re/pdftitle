@@ -8,5 +8,6 @@ test/
 temp/
 pyvenv.cfg
 pdftitle.egg-info/
+editpdf.egg-info
 build/
 dist/
